@@ -12,6 +12,16 @@ cd Downloads
 git clone https://github.com/jetsonworld/jetson-fan-ctl.git
 cd jetson-fan-ctl
 
+  jtop 사용
+
+   I2C 장치 연결 확인
+
+   OLED를 연결한 경우 3c가 보일 것입니다.  PCA9685까지 연결하면 40, 70이 나타나야합니다. 단 address를 변경한 PCA9685인 경우 변경된 address가 보일 것입니다.  또는 보드 종류에 따라 41, 60등 추가 번호가 나오기도합니다.(예: Waveshare Jetracer)  Driver, 추가 구성에 따라 결과는 달라집니다.
+
+   2.1 ROS Melodic 설치
+
+jugfk에 있는 script가 pgp key 때문에 동작하지 않아 shell을 수정했습니다. zeta0707 github에서 clone합니다.
+
 sudo sh install.sh
 sudo sh install.sh 명령어는 리눅스나 macOS와 같은 유닉스 기반 운영 체제에서 사용하는 명령어입니다. 이 명령어는 다음과 같이 작동합니다:
 
