@@ -1,4 +1,5 @@
 # AI_rc
+2장, Jetpack & ROS install
 https://drive.google.com/file/d/1HU5F1cwiw2wzuNBdLL9R3Wvpg5AXLzw5/view?usp=sharing
 
 sudo sh install.sh 명령어는 리눅스나 macOS와 같은 유닉스 기반 운영 체제에서 사용하는 명령어입니다. 이 명령어는 다음과 같이 작동합니다:
