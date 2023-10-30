@@ -1,4 +1,6 @@
 # AI_rc
+https://drive.google.com/file/d/1HU5F1cwiw2wzuNBdLL9R3Wvpg5AXLzw5/view?usp=sharing
+
 sudo sh install.sh 명령어는 리눅스나 macOS와 같은 유닉스 기반 운영 체제에서 사용하는 명령어입니다. 이 명령어는 다음과 같이 작동합니다:
 
 sudo: "superuser do"의 약어로, 명령어를 관리자 권한으로 실행하도록 하는 명령어입니다. 즉, 시스템 관리자 권한이 필요한 작업을 실행할 때 사용합니다. 관리자 권한은 시스템 설정 변경과 같은 중요한 작업에 필요합니다.
